@@ -1,3 +1,2 @@
 We are going to Learn Git and git commands
 
-Git add - is used to add a file
