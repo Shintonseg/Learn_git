@@ -1,2 +1,0 @@
-We are going to Learn Git and git commands
-
